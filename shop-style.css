@@ -59,3 +59,34 @@ body {
     background-color: #2c71b8;
     color: white;
 }
+.search {
+    margin-top: 5px;
+    
+}
+.search input {
+    width: 200px;
+    height: 40px;
+    border-color: #2c71b8
+}
+.icon {
+    float: left;
+}
+.icon a {
+    width: 30px;
+    height: 30px;
+    display: block;
+    float: right;
+    background-color: #2c71b8;
+    text-align: center;
+    line-height: 30px;
+    position: relative;
+    top: 5px;
+    right: 35px;
+}
+.basket {
+    float: right;
+    width: 40px;
+    height: 40px;
+    background-color: white;
+}
+
